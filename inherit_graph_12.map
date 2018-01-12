@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$class_i_plug_a_a_x.html" title="AAX API base class for an IPlug plug&#45;in, inherits from IPlugBase. " alt="" coords="366,5,445,32"/>
+<area shape="rect" id="node3" href="$class_i_plug_base.html" title="The lowest level base class of an IPlug plug&#45;in. " alt="" coords="5,132,88,159"/>
+<area shape="rect" id="node4" href="$class_i_plug_base_graphics.html" title="IPlugBaseGraphics" alt="" coords="150,132,285,159"/>
+<area shape="rect" id="node5" href="$class_i_plug_a_u.html" title="AudioUnit v2 API base class for an IPlug plug&#45;in, inherits from IPlugBase. " alt="" coords="370,56,441,83"/>
+<area shape="rect" id="node6" href="$class_i_plug_standalone.html" title="Standalone application base class for an IPlug plug&#45;in, inherits from IPlugBase. " alt="" coords="347,107,464,133"/>
+<area shape="rect" id="node7" href="$class_i_plug_v_s_t.html" title="VST2.4 API base class for an IPlug plug&#45;in, inherits from IPlugBase. " alt="" coords="366,157,445,184"/>
+<area shape="rect" id="node8" href="$class_i_plug_v_s_t3.html" title="VST3 base class for an IPlug plug&#45;in, inherits from IPlugBase. " alt="" coords="363,259,448,285"/>
+<area shape="rect" id="node9" href="$class_i_plug_w_a_m.html" title="Web Audio Module (WAM) API base class for an IPlug plug&#45;in, inherits from IPlugBase. " alt="" coords="363,208,448,235"/>
+</map>

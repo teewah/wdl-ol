@@ -1,0 +1,24 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_i_control.html" title="The lowest level base class of an IGraphics control. " alt="" coords="6,335,74,361"/>
+<area shape="rect" id="node2" href="$class_i_bitmap_control.html" title="A basic control to draw a bitmap, or one frame of a stacked bitmap depending on the current value..." alt="" coords="147,81,256,108"/>
+<area shape="rect" id="node8" href="$class_i_bitmap_text_control.html" title="Display monospace bitmap font text. " alt="" coords="134,132,269,159"/>
+<area shape="rect" id="node9" href="$class_i_fader_control.html" title="A fader with a bitmap for the handle. " alt="" coords="151,183,252,209"/>
+<area shape="rect" id="node10" href="$class_i_file_selector_control.html" title="A control to allow selection of a file from the file system. " alt="" coords="133,233,270,260"/>
+<area shape="rect" id="node11" href="$class_i_invisible_switch_control.html" title="On/Off switch that has a target area only. " alt="" coords="123,284,279,311"/>
+<area shape="rect" id="node12" href="$class_i_keyboard_control.html" title="A (musical) keyboard control. " alt="" coords="140,335,263,361"/>
+<area shape="rect" id="node13" href="$class_i_knob_control.html" title="Parent for knobs, to handle mouse action and ballistics. " alt="" coords="152,385,251,412"/>
+<area shape="rect" id="node18" href="$class_i_panel_control.html" title="A basic control to fill a rectangle with a color. " alt="" coords="151,436,252,463"/>
+<area shape="rect" id="node19" href="$class_i_radio_buttons_control.html" title="A set of buttons that maps to a single selection. " alt="" coords="128,487,275,513"/>
+<area shape="rect" id="node20" href="$class_i_text_control.html" title="A basic control to output text to the screen. " alt="" coords="154,537,249,564"/>
+<area shape="rect" id="node22" href="$class_i_u_r_l_control.html" title="Clickable URL area. " alt="" coords="154,588,249,615"/>
+<area shape="rect" id="node3" href="$class_i_switch_control.html" title="A switch. " alt="" coords="363,81,471,108"/>
+<area shape="rect" id="node4" href="$class_i_bitmap_overlay_control.html" title="Bitmap shows when value = 0, then toggles its target area to the whole bitmap and waits for another c..." alt="" coords="555,5,709,32"/>
+<area shape="rect" id="node5" href="$class_i_contact_control.html" title="A switch that reverts to 0.0 when released. " alt="" coords="575,56,689,83"/>
+<area shape="rect" id="node6" href="$class_i_switch_frames_control.html" title="A switch where each frame of the bitmap contains images for multiple button states. " alt="" coords="556,107,708,133"/>
+<area shape="rect" id="node7" href="$class_i_switch_pop_up_control.html" title="Like ISwitchControl except it puts up a popup menu instead of cycling through states on click..." alt="" coords="558,157,706,184"/>
+<area shape="rect" id="node14" href="$class_i_knob_line_control.html" title="A knob that is just a line. " alt="" coords="356,309,479,336"/>
+<area shape="rect" id="node15" href="$class_i_knob_multi_control.html" title="A multibitmap knob. " alt="" coords="354,360,481,387"/>
+<area shape="rect" id="node16" href="$class_i_knob_rotater_control.html" title="A rotating knob. " alt="" coords="347,411,488,437"/>
+<area shape="rect" id="node17" href="$class_i_knob_rotating_mask_control.html" title="A knob that consists of a static base, a rotating mask, and a rotating top. " alt="" coords="328,461,507,488"/>
+<area shape="rect" id="node21" href="$class_i_caption_control.html" title="Displays the value of a parameter. " alt="" coords="361,537,474,564"/>
+</map>
